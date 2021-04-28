@@ -1,0 +1,13 @@
+D:\SberBank\Ex1.A\Ex1.A\bin\Debug\netcoreapp3.1\Ex1.A.exe
+D:\SberBank\Ex1.A\Ex1.A\bin\Debug\netcoreapp3.1\Ex1.A.deps.json
+D:\SberBank\Ex1.A\Ex1.A\bin\Debug\netcoreapp3.1\Ex1.A.runtimeconfig.json
+D:\SberBank\Ex1.A\Ex1.A\bin\Debug\netcoreapp3.1\Ex1.A.runtimeconfig.dev.json
+D:\SberBank\Ex1.A\Ex1.A\bin\Debug\netcoreapp3.1\Ex1.A.dll
+D:\SberBank\Ex1.A\Ex1.A\bin\Debug\netcoreapp3.1\Ex1.A.pdb
+D:\SberBank\Ex1.A\Ex1.A\obj\Debug\netcoreapp3.1\Ex1.A.csprojAssemblyReference.cache
+D:\SberBank\Ex1.A\Ex1.A\obj\Debug\netcoreapp3.1\Ex1.A.AssemblyInfoInputs.cache
+D:\SberBank\Ex1.A\Ex1.A\obj\Debug\netcoreapp3.1\Ex1.A.AssemblyInfo.cs
+D:\SberBank\Ex1.A\Ex1.A\obj\Debug\netcoreapp3.1\Ex1.A.csproj.CoreCompileInputs.cache
+D:\SberBank\Ex1.A\Ex1.A\obj\Debug\netcoreapp3.1\Ex1.A.dll
+D:\SberBank\Ex1.A\Ex1.A\obj\Debug\netcoreapp3.1\Ex1.A.pdb
+D:\SberBank\Ex1.A\Ex1.A\obj\Debug\netcoreapp3.1\Ex1.A.genruntimeconfig.cache

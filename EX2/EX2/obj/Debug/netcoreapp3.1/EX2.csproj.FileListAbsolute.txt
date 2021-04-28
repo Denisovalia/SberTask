@@ -1,0 +1,13 @@
+D:\SberBank\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.csprojAssemblyReference.cache
+D:\SberBank\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.AssemblyInfoInputs.cache
+D:\SberBank\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.AssemblyInfo.cs
+D:\SberBank\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.csproj.CoreCompileInputs.cache
+D:\SberBank\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.exe
+D:\SberBank\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.deps.json
+D:\SberBank\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.json
+D:\SberBank\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.dev.json
+D:\SberBank\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.dll
+D:\SberBank\EX2\EX2\bin\Debug\netcoreapp3.1\EX2.pdb
+D:\SberBank\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.dll
+D:\SberBank\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.pdb
+D:\SberBank\EX2\EX2\obj\Debug\netcoreapp3.1\EX2.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVL/I9AsISOFlrJ0CXCwpDILoiz+jM6gHps7yfqnOrdiEWUP8Ih8J5QmcnWPr1j7HX5fPXj89jeIAoGXDa4gZw==",
+  "success": true,
+  "projectFilePath": "D:\\SberBank\\EX2\\EX2\\EX2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pletn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
